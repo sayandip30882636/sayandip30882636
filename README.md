@@ -34,7 +34,7 @@
 I'm a postgraduate in Data Science and a researcher passionate about building intelligent systems that solve complex problems. My journey has taken me from hardcore mathematics to developing practical ML applications and models during my internship at ICMR-NCDIR and academic study at Christ University.
 
 - 🎓 **MSc Data Science** at Christ University, Bengaluru (2024–2026)
-- 🔬 **Presented a Seminar on Extragalactic Data Science ** in Christ University.
+- 🔬 **Presented a Seminar on Extragalactic Data Science** in Christ University.
 - 👨‍💻 **3⭐ Coder** on HackerRank (Python) with 250+ DSA problems solved.
 - 🌱 **Hackathon Contestant ( In top 250)** at QRaptor'25.
 - 💡 **Currently exploring:** Advanced Deep Learning architectures, MLOps pipelines, and AI.
