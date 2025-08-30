@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU3ZHlqeGRmc3BvZm01OWNtbTY2ODR3aGZ1aHJ6eTMyanhzd3czZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VEzYdo930nTiTuVeMU/giphy.gif" alt="Demon Slayer Zenitsu Thunder God GIF" width="450"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW8waGtzZnBxZ2N0dWxucnV6Y2NzMjl1czlibXcxYTI2ZG9iazYwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gwXErBQAVAp4Q/giphy.gif" alt="Zenitsu GIF (Distorted to 450x450)" width="450" height="450"/>
 </p>
 
 <div align="center">
