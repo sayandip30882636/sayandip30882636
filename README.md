@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFwc2N1ZXVtc2JhaDRjZjV2bXFreXhsOXh5dDNrdjE2cWU0Nm1ndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14msSL3Osb4FCo/giphy.gif" alt="Sayandip Ghosh - Data Science & AI/ML Developer Banner">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU3ZHlqeGRmc3BvZm01OWNtbTY2ODR3aGZ1aHJ6eTMyanhzd3czZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VEzYdo930nTiTuVeMU/giphy.gif" alt="Demon Slayer Zenitsu Thunder God GIF" width="450"/>
 </p>
 
 <div align="center">
