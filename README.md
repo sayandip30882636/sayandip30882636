@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://media.gifdb.com/domain-expansion-sukuna-anime-fight-y8i4eqxm9dufxif1.gif" alt="Sayandip Ghosh - Data Science & AI/ML Developer Banner">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFwc2N1ZXVtc2JhaDRjZjV2bXFreXhsOXh5dDNrdjE2cWU0Nm1ndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14msSL3Osb4FCo/giphy.gif" alt="Sayandip Ghosh - Data Science & AI/ML Developer Banner">
 </p>
 
 <div align="center">
   <h1>Hi, I'm Sayandip Ghosh 👋</h1>
-  <h3>MSc Data Science @ Christ University | Researcher | AI/ML Developer</h3>
+  <h3>MSc Data Science(Christ University) | Researcher | AI/ML Developer</h3>
   <p>Bridging the gap between academic research and real-world impact through code and collaboration.</p>
 
   <p>
