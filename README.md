@@ -31,16 +31,17 @@
 
 ### 🚀 About Me
 
-I'm a Data Science postgraduate and researcher passionate about building intelligent systems that solve complex problems. My journey has taken me from hardcore mathematics to developing practical ML applications and models during my internship at ICMR-NCDIR and Christ University.
+I'm a postgraduate in Data Science and a researcher passionate about building intelligent systems that solve complex problems. My journey has taken me from hardcore mathematics to developing practical ML applications and models during my internship at ICMR-NCDIR and academic study at Christ University.
 
 - 🎓 **MSc Data Science** at Christ University, Bengaluru (2024–2026)
 - 🔬 **Presented a Seminar on Extragalactic Data Science ** in Christ University.
 - 👨‍💻 **3⭐ Coder** on HackerRank (Python) with 250+ DSA problems solved.
-- 🌱 **Hackathon Contestent ( In top 250)** at QRaptor'25.
+- 🌱 **Hackathon Contestant ( In top 250)** at QRaptor'25.
 - 💡 **Currently exploring:** Advanced Deep Learning architectures, MLOps pipelines, and AI.
     </td>
     <td valign="top" width="40%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Ztdm91emJpN3R4NXN3N3o0Mjh6Mjl0a2o3azk5N2p6c2F6ZXd1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%"/>
+      <h3 align="center">✨ Sleep 😴 Code 👨‍💻 Eat 🍜 Repeat ✨</h3>
     </td>
   </tr>
 </table>
@@ -102,7 +103,7 @@ I'm a Data Science postgraduate and researcher passionate about building intelli
       <p align="center">
         An intelligent system that automates resume parsing and job recommendation, achieving 85% matching accuracy and saving 70% of manual screening effort.
         <br/><br/>
-        <a href="https://github.com/syashu16/jobi-match-repo" target="_blank">View Code</a> | <a href="#" target="_blank">Live Demo</a>
+        <a href="https://github.com/sayandip30882636/Automated-Resume-Screening-System-and-Job-recommdation-System" target="_blank">View Code</a> | <a href="#" target="_blank">Live Demo</a>
       </p>
       <p align="center">
         <code>Python</code> <code>ML</code> <code>NLP</code> <code>Streamlit</code> <code>Adzuna API</code>
@@ -148,6 +149,26 @@ PubMed..
 </table>
 
 ---
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sayandip30882636&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sayandip30882636&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
+
+---
 
 ### 🏆 Achievements & Certifications
 
@@ -177,6 +198,3 @@ PubMed..
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=syashu16&label=Profile%20Views&color=11&icon=2&pretty=true" />
-</p>
