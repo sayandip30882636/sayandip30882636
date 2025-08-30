@@ -41,7 +41,7 @@ I'm a postgraduate in Data Science and a researcher passionate about building in
     </td>
     <td valign="top" width="40%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Ztdm91emJpN3R4NXN3N3o0Mjh6Mjl0a2o3azk5N2p6c2F6ZXd1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%"/>
-      <h3 align="center">✨ Sleep 😴 Code 👨‍💻 Eat 🍜 Repeat ✨</h3>
+      <h3 align="center">✨ Sleep 😴 Code 👨‍💻 Eat 🍜 Repeat </h3>
     </td>
   </tr>
 </table>
