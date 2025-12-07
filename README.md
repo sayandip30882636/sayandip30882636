@@ -178,7 +178,8 @@ PubMed..
       <h4>🏅 Key Achievements</h4>
       <ul>
         <li><b>3-Star Coder on HackerRank</b> (Python)</li>
-        <li><b>Hackathon(QRaptor) Contributor</b> (2024)</li>
+        <li><b>Hackathon(QRaptor) Contributor</b> (2025)</li>
+         <li><b>Open-AI-NXT-Wave Buildathon(India's Bigges AI Hackathon) State-Level Participant</b> (2025)</li>
       </ul>
     </td>
     <td valign="top" width="50%">
